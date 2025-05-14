@@ -12,3 +12,14 @@ def dire_bonjour(message, nom):
 
 def question():
     input("Ton ordi est casse?")
+
+def dire_bye()
+    input('bye')
+
+
+
+
+
+def calcul_somme(a,b)
+    S=a+b
+    return S
