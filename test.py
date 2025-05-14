@@ -3,3 +3,5 @@ def somme(a,b):
     return a+b
 
 print(somme(1,1))
+def somme(c,d):
+    return c*d
