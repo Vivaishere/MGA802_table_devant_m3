@@ -10,3 +10,5 @@ def aire_rectangle(h, b):
 def dire_bonjour(message, nom):
     return message + nom
 
+def question():
+    input("Ton ordi est casse?")
