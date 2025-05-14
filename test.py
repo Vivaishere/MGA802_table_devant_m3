@@ -1,4 +1,4 @@
-# C'est pour les testes
+# C'est pour les tests
 def somme(a,b):
     return a+b
 
@@ -26,5 +26,3 @@ def dire_bye():
 def calcul_somme(a,b):
     S=a+b
     return S
-
-#test push
